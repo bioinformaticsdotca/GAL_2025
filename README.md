@@ -1,4 +1,4 @@
-## CBW RNA-seq Analysis Using Galaxy en Français {{YEAR}
+## CBW RNA-seq Analysis Using Galaxy en Français 2025
 
-[Workshop Website](https://bioinformatics.ca/workshops-all/rna-seq-using-galaxy-en-francais/)
+[Workshop Website](bioinformaticsdotca.github.io/GAL_2025)
 

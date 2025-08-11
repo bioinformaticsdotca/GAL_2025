@@ -1,6 +1,8 @@
 # Module 3
 
-## Lecture
+## Cours
+<iframe src="https://docs.google.com/presentation/d/1hVlbjEKudZhVDUaNMjZl32iD8bbQQ9KC/preview" width="640" height="480" allow="autoplay"></iframe>
 
-
-## Lab
+## Pratique
+<iframe src="https://docs.google.com/presentation/d/1ca0H4sQK0eSMBB3jnMVpK0x8Ju0k-amM/preview" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://docs.google.com/presentation/d/1UI5YQ58WKoLpqTCVD-6bojz5CSr2_Mec/preview" width="640" height="480" allow="autoplay"></iframe>

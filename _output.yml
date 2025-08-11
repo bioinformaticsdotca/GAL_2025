@@ -15,7 +15,7 @@ bookdown::gitbook:
          </a>
         <li><center><strong><a href="./"><br>RNA-seq Analysis Using Galaxy en Français<br><br></a></strong></center></li>
         <a href="./">
-         <img src="img/missingLogo.png" width="70%" alt="RNA-seq Analysis Using Galaxy en Français logo" style="display:block; margin-left:auto; margin-right:auto; ">
+         <img src="img/GAL_2025.jpg" width="70%" alt="RNA-seq Analysis Using Galaxy en Français logo" style="display:block; margin-left:auto; margin-right:auto; ">
          </a>
         <br>
 
@@ -30,7 +30,7 @@ bookdown::gitbook:
         <a href="https://oicr.on.ca/"><img src="img/sponsors/oicr.png" width=25% style="display:inline-block;" style="padding-bottom: 20px" alt="Ontario Institute for Cancer Research logo.">
         <a href="https://www.hpcforhealth.ca/"><img src="img/sponsors/hpc4health.png" width=60% style="display:inline-block;" style="padding-bottom: 20px "alt="HPC4Health logo.">
 
-    edit: https://github.com/bioinformaticsdotca/{{CODE}}/blob/main/%s
+    edit: https://github.com/bioinformaticsdotca/GAL_2025/blob/main/%s
 
     download: ["pdf", "epub"]
   number_sections: false

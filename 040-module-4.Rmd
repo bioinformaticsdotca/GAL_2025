@@ -1,6 +1,7 @@
 # Module 4
 
-## Lecture
+## Cours
+<iframe src="https://docs.google.com/presentation/d/19r50v8RCYavWIQI2uvpF64ubEb-4Ps-S/preview" width="640" height="480" allow="autoplay"></iframe>
 
-
-## Lab
+## Pratique
+<iframe src="https://docs.google.com/presentation/d/1o1JXMXVHuXlmBIOuAiCxNKWsNuqLtMkb/preview" width="640" height="480" allow="autoplay"></iframe>
