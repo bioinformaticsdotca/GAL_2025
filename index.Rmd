@@ -296,7 +296,7 @@ schedule_component <- tagList(
 schedule_component
 ```
 
-## Pre-work
-
+<!--## Pre-work
+-->
 <!--[You can find your pre-work here.](LINK TO PREWORK)
 -->
