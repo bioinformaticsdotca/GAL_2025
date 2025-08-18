@@ -18,9 +18,9 @@ favicon: img/favicon.ico
 
 # Workshop Info
 
-<!--## Class Photo
+## Class Photo
 
-After workshop concludes, YOUR EMBED CODE HERE-->
+<iframe src="https://drive.google.com/file/d/1B3w6z1hSjQSstIVE_sj20I5hm32_rSdD/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## Schedule
 

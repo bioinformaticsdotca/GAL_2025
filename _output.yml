@@ -29,6 +29,9 @@ bookdown::gitbook:
         <br><br>
         <a href="https://oicr.on.ca/"><img src="img/sponsors/oicr.png" width=25% style="display:inline-block;" style="padding-bottom: 20px" alt="Ontario Institute for Cancer Research logo.">
         <a href="https://www.hpcforhealth.ca/"><img src="img/sponsors/hpc4health.png" width=60% style="display:inline-block;" style="padding-bottom: 20px "alt="HPC4Health logo.">
+        <a href="https://www.ircm.qc.ca"><img src="img/sponsors/ircm.jpg" width=60% style="display:inline-block;" style="padding-bottom: 20px "alt="IRCM logo.">
+        <a href="https://alliancecan.ca/en"><img src="img/sponsors/drac.png" width=60% style="display:inline-block;" style="padding-bottom: 20px "alt="DRAC logo.">
+
 
     edit: https://github.com/bioinformaticsdotca/GAL_2025/blob/main/%s
 
